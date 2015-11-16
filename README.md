@@ -2,7 +2,6 @@ Yarr!
 
 Unofficial docker image for ARK: Survival Evolved w/ PirateWorld mod (auto updated) - http://store.steampowered.com/app/346110/
 
-
 Possibly the easiest way yet to create your own ARK: Survival Evolved server with them Pirates!  
 Just follow the instructions and you'll be up and swearing in minutes!
 
